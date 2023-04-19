@@ -1,0 +1,1 @@
+# DeliveryCard [![Build status](https://ci.appveyor.com/api/projects/status/7i1kxl9c59xubp53/branch/main?svg=true)](https://ci.appveyor.com/project/RomanAgapitovQA54/carddelivery/branch/main)
